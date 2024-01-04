@@ -2,8 +2,6 @@
 
 EPS 130 - Strong Motion Seismology - Douglas Dreger - Spring 23
 
-[![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=EPS-130-SP24&branch=main&path=)
+[![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FEPS130-SP24&branch=main&urlpath=tree%2FEPS130-SP24%2FREADME.md)
  
-[![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub%20PS1-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=EPS-130-SP24&branch=main&path=EPS_Homework1/eps130_hw1_gutenberg_richter_v3.0.ipynb)
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/EPS-130-SP24/main)
